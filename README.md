@@ -29,7 +29,7 @@ best practices from implementing release automation that saved
 ## Tech Stack
 
 GitHub Actions · Node.js · React · Jest · ESLint · Webpack
-
+ 
 ## Usage
 
 Copy the relevant workflow file into your .github/workflows/ directory
